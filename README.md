@@ -1,2 +1,3 @@
 # vital-codes-in-my-paper
-paper network AI
+Regarding the code, any use in academia is free, but must cite my relevant literature
+
